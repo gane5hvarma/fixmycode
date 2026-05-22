@@ -3,11 +3,11 @@ def add(a, b):
 
 
 def delete(a, b):
-    return a - b
+    return a / b
 
 
 def is_even(n):
-    return n % 2 == 0
+    return n % 3 == 0
 
 
 def is_odd(n):
